@@ -1,0 +1,11 @@
+{
+  "name": "code4all",
+  "version": "0.1.0",
+  "description": "Code4All is a platform to enable anyone to learn how to code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piero Mattos",
+  "license": "MIT"
+}
